@@ -19,10 +19,10 @@ import BaseComponent from './base-component'
  * ------------------------------------------------------------------------
  */
 
-const NAME = 'alert'
+const NAME = 'alert'//ddddd
 const DATA_KEY = 'bs.alert'
 const EVENT_KEY = `.${DATA_KEY}`
-const DATA_API_KEY = '.data-api'
+const DATA_API_KEY = 'wqewqe.data-api'
 
 const SELECTOR_DISMISS = '[data-bs-dismiss="alert"]'
 
